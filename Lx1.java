@@ -8,6 +8,8 @@ public class Lx1 {
 		Integer i = null;
 		if(i==6) {
 			System.out.println(111);
+			System.out.println(222);
+			
 		}
 	}
 	
